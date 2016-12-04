@@ -3,9 +3,9 @@
    Translated by / Traduzido por:
        Lucas Montuano (@montuano) e Guto Cristino (@guto_xtino)
    Currently being translated by / Atualmente sendo traduzido por:
-		Dan (@vergonha), Danilo (@daniloosoo), Eric Romero (@ericromeero), Gabriel Borjoize (@Borjoize), jR750Ac (@jr750ac), Mocha (@MochaKH), Nical(@Nical), Pug (@Capitalista) e Saah (@ayylimao)
+		Dan (@vergonha), Danilo (@daniloosoo), Eric Romero (@ericromeero), Gabriel Borjoize (@Borjoize), Shelder (@sats_sjrp), jR750Ac (@jr750ac), Mocha (@MochaKH), Nical(@Nical), Pug (@Capitalista) e Saah (@ayylimao)
 		Team leaders: @ayylimao, @Borjoize
-	   (Última edição: 15/11/2016, by @Nical e @ayylimao)
+	   (Última edição: 04/12/2016 por @sats_sjrp
 -->
 <strings>
   <language name="Português (Brasil)" base="Português" variant="Brasil"/>
@@ -57,7 +57,7 @@
     <value>Você não pode fugir! VOCÊ ESTÁ MORTO(A)!  Volte para sua cova.... Seu zumbi</value>
   </string>
   <string key="Flee">
-    <value>{0} fugiu aterrorizado(a)!</value>
+    <value>{0} ficou com medo e fugiu aterrorizado(a)!</value>
   </string>
   <string key="PlayerRoleWas">
     <value>{0} era {1}</value>
@@ -294,7 +294,7 @@
     <value >Sua bisbilhotada provou que {0} é {1}</value>
   </string>
   <string key="HarlotShot" >
-    <value >Parece que {0} não gostou da noite com a cortesã! A atiradora ficou louca e se vingou. {1} está morto(a).</value>
+    <value >Parece que {0} não gosta de safadeza! A atiradora ficou louca e se vingou. {1} está morto(a).</value>
   </string>
   <string key="DefaultShot" >
     <value >De repente, um tiro é disparado.  Os aldeões se viram para ver {0} de pé em cima do corpo de {1}, com a arma ainda apontada para a cabeça e os miolos espalhados.  {2}.</value>
@@ -339,7 +339,7 @@
     <value >Todos os lobos morreram e as únicas pessoas sobreviventes pertencem à Seita..  A Seita venceu! A SEITA QUE DÓI MENOS!</value>
   </string>
   <string key="HunterVisitDead">
-    <value>Você foi inquirir {0}, mas chegando lá só encontrou seu corpo sem vida!</value>
+    <value>Você foi inquirir {0}, mas chegando lá você viu que alguém veio na sua frente! {0} Está morto(a)!</value>
   </string>
   <string key="HunterFindCultist">
     <value>Você invade a casa de {0} e vê as marcas sa Seita nas paredes, você sabe o que fazer... Depois das torturas, ele se confessa, e você sabe muito bem como expurgar os pecados desse tipo: Com a morte!</value>
@@ -464,7 +464,7 @@
     <value>Você tenta fugir mas os rumores de que há lobisomens fizeram com que administradores fechassem as saídas para os lobos não fugirem! Boa sorte com isso!</value>
   </string>
   <string key="IsDead"> <!-- used when gunner shoots a player -->
-    <value>Está morta!</value>
+    <value>Está morto(a)!</value>
   </string>
     <!-- MORE STRINGS May 16, 2016 -->
   <string key="AdminAdded">
@@ -592,7 +592,7 @@
     <value>Você dormiu na casa de {0} para se divertir um pouco. Mas essa noite só {0} vai se divertir, com você, enquanto ele esfaqueia seu corpo. Você morreu, mas se te serve de consolo, ele pareceu se divertir muito essa noite...</value>
   </string>
   <string key="HarlotFuckKillerPublic">
-    <value>{0} don't worry about this string for now!</value>
+    <value>{0} foi tentar ter ums noite de safadeza com o Serial Killer, mas não deu muito certo! {0} está morto(a)!</value>
   </string>
   <string key="DGToMason">
     <value>O Doppelganger {0} agora se tornou um Maçom, assim como você!</value>
@@ -694,7 +694,7 @@
 	</string>
 <!--Novas Strings, feitas dia 07/06/2016. Traduzidas dia 09/06/2016-->
   <string key="AboutVG">
-    <value>Você é um simples aldeão, condenado a passar seus dias arando o campo esprando para ser devorado pelos Lobos, seus inimigos. Uma vez por dia você pode votar em alguém pra mandar pra forca, use seu voto com sabedoria!</value>
+    <value>Você é um simples aldeão, condenado a passar seus dias arando o campo esperando para ser devorado pelos Lobos, seus inimigos. Uma vez por dia você pode votar em alguém pra mandar pra forca, use seu voto com sabedoria!</value>
   </string>
   <string key="AboutSeer">
     <value>Você é a Vidente, seu papel é guiar a Aldeia na empreitada contra os Lobos.  Durante a noite, você pode escolher alguém para 'ver', e ter seu papel revelado a você. Se revele com cautela, porque os Lobos estão loucos pra devorar você!</value>
